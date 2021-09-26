@@ -1,0 +1,7 @@
+B:\C#\listasSimpleEjemplo\listasSimpleEjemplo\bin\Debug\listasSimpleEjemplo.exe.config
+B:\C#\listasSimpleEjemplo\listasSimpleEjemplo\bin\Debug\listasSimpleEjemplo.exe
+B:\C#\listasSimpleEjemplo\listasSimpleEjemplo\bin\Debug\listasSimpleEjemplo.pdb
+B:\C#\listasSimpleEjemplo\listasSimpleEjemplo\obj\Debug\listasSimpleEjemplo.csprojResolveAssemblyReference.cache
+B:\C#\listasSimpleEjemplo\listasSimpleEjemplo\obj\Debug\listasSimpleEjemplo.csproj.CoreCompileInputs.cache
+B:\C#\listasSimpleEjemplo\listasSimpleEjemplo\obj\Debug\listasSimpleEjemplo.exe
+B:\C#\listasSimpleEjemplo\listasSimpleEjemplo\obj\Debug\listasSimpleEjemplo.pdb
