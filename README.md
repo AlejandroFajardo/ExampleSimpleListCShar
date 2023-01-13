@@ -1,2 +1,2 @@
-# EjemploSimpleListCShar
-ejemplo de Implementación de teoría de listas simples C#
+# Simple List C#
+C# Simple List Theory Implementation example
